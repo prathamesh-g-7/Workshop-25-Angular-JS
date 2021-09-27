@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.container > h4 {
+  padding: 10px;
+}
